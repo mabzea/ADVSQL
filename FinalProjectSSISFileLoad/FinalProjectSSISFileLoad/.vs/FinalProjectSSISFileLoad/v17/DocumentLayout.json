@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQL\\Desktop\\Week 5 Item 1\\FinalProjectSSISFileLoad\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8738AA11-3995-BA9A-0BDE-67576519AFDA}|FinalProjectSSISFileLoad.dtproj|C:\\Users\\SQL\\Desktop\\Week 5 Item 1\\FinalProjectSSISFileLoad\\RestaurantImport.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design",
+      "RelativeMoniker": "D:0:0:{8738AA11-3995-BA9A-0BDE-67576519AFDA}|FinalProjectSSISFileLoad.dtproj|solutionrelative:RestaurantImport.dtsx||{CC84AFBD-DA02-46F4-8623-9F07E5569EDB}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RestaurantImport.dtsx [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\Week 5 Item 1\\FinalProjectSSISFileLoad\\RestaurantImport.dtsx",
+              "RelativeDocumentMoniker": "RestaurantImport.dtsx",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\Week 5 Item 1\\FinalProjectSSISFileLoad\\RestaurantImport.dtsx [Design]",
+              "RelativeToolTip": "RestaurantImport.dtsx [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T16:53:15.137Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
