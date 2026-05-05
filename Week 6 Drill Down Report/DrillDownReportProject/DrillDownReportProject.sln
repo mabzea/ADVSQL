@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "DrillDownReportProject", "DrillDownReportProject.rptproj", "{3C38EDC1-D320-8729-203C-6D3D514C3687}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.Debug|Default.ActiveCfg = Debug
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.Debug|Default.Build.0 = Debug
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.Debug|Default.Deploy.0 = Debug
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.DebugLocal|Default.Build.0 = DebugLocal
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.Release|Default.ActiveCfg = Release
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.Release|Default.Build.0 = Release
+		{3C38EDC1-D320-8729-203C-6D3D514C3687}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6429408-8B3F-48CB-8F3F-7D758E285202}
+	EndGlobalSection
+EndGlobal
