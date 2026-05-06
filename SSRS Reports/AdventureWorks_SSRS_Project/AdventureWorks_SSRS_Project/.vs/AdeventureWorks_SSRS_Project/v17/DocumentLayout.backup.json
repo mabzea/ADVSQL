@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{243976E3-518D-F602-CF80-0AB97EE03A2F}|AdeventureWorks_SSRS_Project.rptproj|C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\EmployeeManagersReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{243976E3-518D-F602-CF80-0AB97EE03A2F}|AdeventureWorks_SSRS_Project.rptproj|solutionrelative:EmployeeManagersReport.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{243976E3-518D-F602-CF80-0AB97EE03A2F}|AdeventureWorks_SSRS_Project.rptproj|C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\rpt_BillOfMaterials.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{243976E3-518D-F602-CF80-0AB97EE03A2F}|AdeventureWorks_SSRS_Project.rptproj|solutionrelative:rpt_BillOfMaterials.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeManagersReport.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\EmployeeManagersReport.rdl",
+              "RelativeDocumentMoniker": "EmployeeManagersReport.rdl",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\EmployeeManagersReport.rdl [Design]",
+              "RelativeToolTip": "EmployeeManagersReport.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-06T16:23:05.401Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "rpt_BillOfMaterials.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\rpt_BillOfMaterials.rdl",
+              "RelativeDocumentMoniker": "rpt_BillOfMaterials.rdl",
+              "ToolTip": "C:\\Users\\SQL\\Desktop\\SSRS Reports\\AdventureWorks_SSRS_Project\\AdventureWorks_SSRS_Project\\rpt_BillOfMaterials.rdl [Design]",
+              "RelativeToolTip": "rpt_BillOfMaterials.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-06T12:36:03.067Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
